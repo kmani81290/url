@@ -1,0 +1,7 @@
+Then, open both src and dest in vim (the -p flag opens the arguments in tabs):
+
+vim -p src dest
+
+change tab between two tabs
+
+https://www.quora.com/How-do-I-switch-between-tabs-in-vim
