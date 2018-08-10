@@ -1,7 +1,10 @@
 Then, open both src and dest in vim (the -p flag opens the arguments in tabs):
 
-vim -p src dest
+vim -p src.txt dest.txt
+
+gt,
 
 change tab between two tabs
 
 https://www.quora.com/How-do-I-switch-between-tabs-in-vim
+https://unix.stackexchange.com/questions/138398/how-to-get-lines-10-to-100-from-a-200-line-file-into-a-new-file
