@@ -1,0 +1,7 @@
+I have file with 200 lines.
+I need to extract lines from 10 to 100 and put them into a new file.
+How do you do this in unix/Linux?
+What are the possible commands you could use?
+
+
+https://unix.stackexchange.com/questions/138398/how-to-get-lines-10-to-100-from-a-200-line-file-into-a-new-file
